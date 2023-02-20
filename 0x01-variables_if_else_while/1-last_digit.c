@@ -5,7 +5,7 @@
 /**
  * main - a  program that will assign a random number to the variable n
  *
- * Return: 0
+ * Return: 0 (success)
  */
 int main(void)
 {
@@ -29,5 +29,6 @@ int main(void)
 		printf("and is less than 6 and not 0");
 	}
 	printf("\n");
+	
 	return (0);
 }
